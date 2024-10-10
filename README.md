@@ -13,6 +13,7 @@ server.
 
 
 
+
 ## Installation
 
 Build and install whisper.cpp:
