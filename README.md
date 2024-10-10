@@ -11,7 +11,6 @@ clients.  Since Galene-stt requires a fair amount of CPU, this allows
 running on a powerful local machine without the risk to overload the
 server.
 
-
 ## Installation
 
 Build and install whisper.cpp:
