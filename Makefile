@@ -30,6 +30,9 @@ dep-test:
 	# If it works, you will see the text from the audio file.
 	cd $(WHISPER_REPO_NAME) && ./main -f samples/jfk.wav
 
+bin:
+	go build .
+
 
 	
 
